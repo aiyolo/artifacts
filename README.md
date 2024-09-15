@@ -1,1 +1,1 @@
-# opencv_nocuda
+# artifacts
